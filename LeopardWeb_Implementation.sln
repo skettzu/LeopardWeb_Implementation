@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeopardWeb_Implementation", "LeopardWeb_Implementation.vcxproj", "{0E84DFD4-52C5-417E-9AD9-060983492988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Debug|x64.ActiveCfg = Debug|x64
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Debug|x64.Build.0 = Debug|x64
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Debug|x86.Build.0 = Debug|Win32
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Release|x64.ActiveCfg = Release|x64
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Release|x64.Build.0 = Release|x64
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Release|x86.ActiveCfg = Release|Win32
+		{0E84DFD4-52C5-417E-9AD9-060983492988}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3634E1C9-8460-41E6-BAAA-162BE67D55FB}
+	EndGlobalSection
+EndGlobal
